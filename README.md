@@ -2,9 +2,11 @@
 
 This repository contains all the Machine Learning lab experiments I performed during my college sessions. Each experiment covers essential ML concepts, algorithms, and hands-on implementations that helped build a strong foundation in data preprocessing, model training, evaluation, and visualization.
 
+
 📂 Contents
 
 🔹 Data Preprocessing : Handling Missing value and Outliers
+
 
 
 
@@ -22,6 +24,7 @@ Scikit-Learn
 
 Jupyter Notebook
 
+
 📁 Structure
 
 Each experiment is placed in its own folder or notebook, containing:
@@ -32,28 +35,29 @@ Each experiment is placed in its own folder or notebook, containing:
 
 📝 Observations / Conclusions
 
+
 🎯 Purpose
 
 This repo serves as:
 
-A reference for ML fundamentals
+*A reference for ML fundamentals
 
-A portfolio showcase for academic and project work
+*A portfolio showcase for academic and project work
 
-A study resource for exams and interviews
+*A study resource for exams and interviews
+
 
 💡 How to Run
 
-Clone the repository
+1.Clone the repository
 
-git clone <your-repo-link>
-
-
-Install dependencies
-
-pip install -r requirements.txt
+2.git clone <your-repo-link>
 
 
-Open any experiment
+3.Install dependencies
 
-jupyter notebook
+4.pip install -r requirements.txt
+
+5.Open any experiment
+
+6.jupyter notebook
