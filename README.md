@@ -6,6 +6,8 @@ This repository contains all the Machine Learning lab experiments I performed du
 📂 Contents
 
 🔹 Data Preprocessing : Handling Missing value and Outliers
+🔹 Feature Transformations 
+
 
 
 
