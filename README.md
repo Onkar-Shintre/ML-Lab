@@ -55,7 +55,6 @@ This repo serves as:
 
 2.git clone <your-repo-link>
 
-
 3.Install dependencies
 
 4.pip install -r requirements.txt
