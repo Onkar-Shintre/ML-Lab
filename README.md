@@ -42,11 +42,11 @@ Each experiment is placed in its own folder or notebook, containing:
 
 This repo serves as:
 
-*A reference for ML fundamentals
+*A reference for ML fundamentals.
 
-*A portfolio showcase for academic and project work
+*A portfolio showcase for academic and project work.
 
-*A study resource for exams and interviews
+*A study resource for exams and interviews.
 
 
 💡 How to Run
