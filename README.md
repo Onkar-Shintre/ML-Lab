@@ -1,6 +1,6 @@
 📘 Machine Learning Lab Experiments
 
-This repository contains all the Machine Learning lab experiments I performed during my college sessions. Each experiment covers essential ML concepts, algorithms, and hands-on implementations that helped build a strong foundation in data preprocessing, model training, evaluation, and visualization.
+This repository contains all the Machine Learning lab experiments I performed during my college sessions. Each experiment covers essential ML concepts, algorithms, and hands-on implementations that helped build a strong foundation in data preprocessing, model training, evaluation, and visualization.      
 
 
 📂 Contents
