@@ -11,6 +11,8 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹 Linear Regression 
 
+🔹 Multiple Linear Regression 
+
 
 
 
