@@ -18,17 +18,17 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🚀 Tech Stack
 
-Python
+🔹Python
 
-NumPy
+🔹NumPy
 
-Pandas
+🔹Pandas
 
-Matplotlib / Seaborn
+🔹Matplotlib / Seaborn
 
-Scikit-Learn
+🔹Scikit-Learn
 
-Jupyter Notebook
+🔹Jupyter Notebook
 
 
 📁 Structure
