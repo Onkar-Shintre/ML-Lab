@@ -15,6 +15,8 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹Logistics Regression 
 
+🔹ID3 Algorithm 
+
 
 🚀 Tech Stack
 
