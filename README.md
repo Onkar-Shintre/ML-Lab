@@ -13,7 +13,7 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹 Multiple Linear Regression 
 
-
+🔹Logistics Regression 
 
 
 🚀 Tech Stack
