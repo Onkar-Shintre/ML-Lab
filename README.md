@@ -17,6 +17,10 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹ID3 Algorithm 
 
+🔹Random Forest Algorithm
+
+🔹
+
 
 🚀 Tech Stack
 
