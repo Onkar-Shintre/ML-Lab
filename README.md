@@ -21,7 +21,7 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹SVM
 
-🔹
+🔹KNN algorithm
 
 
 🚀 Tech Stack
