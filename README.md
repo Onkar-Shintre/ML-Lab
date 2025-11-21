@@ -23,6 +23,8 @@ This repository contains all the Machine Learning lab experiments I performed du
 
 🔹KNN algorithm
 
+🔹Naive Bayes Algorithm 
+
 
 🚀 Tech Stack
 
